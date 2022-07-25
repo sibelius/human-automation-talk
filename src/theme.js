@@ -5,6 +5,6 @@ export default {
 
   colors: {
     ...theme.colors,
-    background: '#272425',
+    background: '#1A04A8',
   },
 }
