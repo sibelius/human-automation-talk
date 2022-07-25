@@ -41,7 +41,7 @@ export const Cover = () => (
   <Root>
     <Center>
       <Title mt={20}>Human Automation</Title>
-      <Subtitle mt={20}>semibot</Subtitle>
+      <Subtitle mt={20}>sibs-day</Subtitle>
       <MeName mt={100}>@sseraphini</MeName>
       <Img src={'./img/me_transparent.png'} width={200} />
     </Center>
